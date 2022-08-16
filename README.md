@@ -7,4 +7,4 @@
 2. 提交程式碼變更 Making and committing changes
 3. 建立拉取請求 Opening a pull request
 4. 合併拉取請求 Merging your pull request
-5. 建立Issue Opening a pull Issue
+5. 建立議題 Opening a Issue
