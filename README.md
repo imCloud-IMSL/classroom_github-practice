@@ -1,5 +1,6 @@
 # GitHub Practice
-本練習以特徵提取程式碼開發為例，演練Git實務。
+### 本練習以特徵提取程式碼開發為例，演練Git實務。
+學員將練習應用GitHub合作撰寫特徵提取程式碼，目標為成功自example_rawdata.csv提取10個時域特徵值。
 
 ## 演練Git功能包含
 1. 創立分支 Creating a branch
